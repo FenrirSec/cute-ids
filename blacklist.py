@@ -1,0 +1,1 @@
+ips = open('blacklist_ips.txt').read().split('\n')
